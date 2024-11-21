@@ -1,6 +1,5 @@
 # remy is working on this hehe
-import multiplication
 
-print("Using multiplication")
-x = add_two_numbers(1, 2)
-print("1 * 2 = " + x)
+def multiplication(x, y):
+    return x * y
+    
